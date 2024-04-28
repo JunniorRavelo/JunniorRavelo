@@ -1,4 +1,4 @@
-<img src="./assets/greetings.gif">
+<img src="">
 
 <br>
 
