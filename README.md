@@ -39,12 +39,11 @@ I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](
 
 
 
-## 🌐 Social Media
+## 🌐 Contacto
 
 You can find me on:
 
-- Twitter: [**@EstefaniaCassN**](https://twitter.com/EstefaniaCassN)
-- Udemy: [**My Instructor Profile**](https://www.udemy.com/user/estefania-cn/)
-- YouTube: [**Coding with Estefania**](https://www.youtube.com/codingwithestefania) 
+- WhatsApp: [**Jr Santiago Ravelo**](https://wa.me/573202947007)
+- Email: [**Enviar correo**](mailto:dev.jrsantiagoravelo@gmail.com)
  
 --------
