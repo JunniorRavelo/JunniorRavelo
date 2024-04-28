@@ -32,13 +32,10 @@
 -----
 
 
-
-
 ## 🌐 Contacto
 
-You can find me on:
+Puedes encontrarme en:
 
-- WhatsApp: [**Jr Santiago Ravelo**](https://wa.me/573202947007)
 - Email: [**Enviar correo**](mailto:dev.jrsantiagoravelo@gmail.com)
  
 --------
