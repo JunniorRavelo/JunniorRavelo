@@ -2,12 +2,7 @@
 
 <br>
 
-**Hi, I'm Estefania. I'm a software developer and computer science instructor. I love teaching, learning, and helping others realize how amazing and powerful programming can be.**
-
-I create online courses in English and Spanish to teach programming and computer science.
-
-I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol) YouTube Channel, create courses, and write articles.
-
+**Hola, soy Jr Santiago Ravelo**
 
 <img width="70px" 
     height="70px" 
