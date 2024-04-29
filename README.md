@@ -32,11 +32,19 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/java.svg">
+    src="./assets/java.png">
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="./assets/mariadb.svg">
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/vsc.png">
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/ij.png">
 
 -----
 
