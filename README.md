@@ -29,6 +29,14 @@
     height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/java.svg">
+    <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/mysql.svg">
 
 -----
 
