@@ -36,7 +36,7 @@
     <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/mysql.svg">
+    src="./assets/mariadb.svg">
 
 -----
 
