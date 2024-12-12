@@ -58,7 +58,14 @@
   <a href="https://www.linkedin.com/in/jsravelo/">
     <img src="https://img.shields.io/badge/-J.%20Santiago%20Ravelo-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://wa.me/573202947007">
+    <img src="https://img.shields.io/badge/-(+57)3202947007-green?style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/+573202947007">
+    <img src="https://img.shields.io/badge/-(+57)3202947007-blue?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
+
 
 ---
 
