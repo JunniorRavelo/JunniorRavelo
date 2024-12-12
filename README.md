@@ -22,29 +22,93 @@
 <h2 align="center">Technologies and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
-  <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel"/>
-  <img src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot"/>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/-Ubuntu Server-black?style=flat-square&logo=ubuntu"/>
-  <img src="https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian"/>
-  <img src="https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=centos"/>
-  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonwebservices"/>
-  <img src="https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress"/>
+<!-- AWS -->
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<!-- Bootstrap -->
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+<!-- C -->
+<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
+
+<!-- C++ -->
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+<!-- CentOS -->
+<img src="https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>
+
+<!-- CSS3 -->
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<!-- Debian -->
+<img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
+
+<!-- Express -->
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+
+<!-- Git -->
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<!-- GitHub -->
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<!-- Go -->
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+
+<!-- Heroku -->
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
+
+<!-- HTML5 -->
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+<!-- Java -->
+<img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white"/>
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<!-- Laravel -->
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+<!-- MongoDB -->
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<!-- Nest.js -->
+<img src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+
+<!-- Next.js -->
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+
+<!-- Node.js -->
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<!-- PHP -->
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+<!-- PostgREST -->
+<img src="https://img.shields.io/badge/-PostgREST-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<!-- React -->
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<!-- React Native -->
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<!-- SpringBoot -->
+<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+
+<!-- Ubuntu Server -->
+<img src="https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+
+<!-- WordPress -->
+<img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+
 </p>
 
 ---
