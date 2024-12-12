@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/portada.png" alt="Portada" />
+  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/portada.png" alt="Cover" />
 </p>
 
 <p align="center">
@@ -11,15 +11,15 @@
 
 ---
 
-<h1 align="center">¡Hola! Soy J. Santiago Ravelo</h1>
+<h1 align="center">Hello! I'm J. Santiago Ravelo</h1>
 
 <p align="center">
-  Soy un estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la administración de entornos de TI. Me encanta explorar nuevas tecnologías, crear soluciones eficientes y optimizar procesos. Aquí encontrarás proyectos, experimentos y contribuciones que reflejan mi dedicación y compromiso con la mejora continua.
+  I am a Systems Engineering student passionate about software development and IT environment administration. I love exploring new technologies, creating efficient solutions, and optimizing processes. Here you will find projects, experiments, and contributions that reflect my dedication and commitment to continuous improvement.
 </p>
 
 ---
 
-<h2 align="center">Tecnologías y Herramientas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technologies and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -49,11 +49,11 @@
 
 ---
 
-<h2 align="center">Contáctame <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Contact Me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-  <a href="mailto:J.SantiagoRavelo@gmail.com">
-    <img src="https://img.shields.io/badge/-J.SantiagoRavelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+  <a href="mailto:JSantiagoRavelo@gmail.com">
+    <img src="https://img.shields.io/badge/-JSantiagoRavelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/jsravelo/">
     <img src="https://img.shields.io/badge/-J.%20Santiago%20Ravelo-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
@@ -66,10 +66,9 @@
   </a>
 </p>
 
-
 ---
 
-<h2 align="center">Estadísticas</h2>
+<h2 align="center">Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JunniorRavelo&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
@@ -78,8 +77,8 @@
 
 ---
 
-<p align="center">⭐ Estudiante de Ingeniería en Sistemas ⭐</p>
+<p align="center">⭐ Full Stack DevOps Engineer | Systems Engineering Student ⭐</p>
 
 <p align="center">
-  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/contact.jpeg" alt="Contacto" />
+  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/contact.jpeg" alt="Contact" />
 </p>
