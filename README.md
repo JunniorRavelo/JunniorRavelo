@@ -62,12 +62,11 @@
 
 ---
 
-<h2 align="center">Estadísticas <img src="https://camo.githubusercontent.com/caac5db73dceb30ccab20a449bb9ffb9c5f96ac53183f321f90adf0ac91f1fd9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78554137615a654c4532653050375a6e7a322f67697068792e676966" width="50"></h2>
+<h2 align="center">Estadísticas</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JunniorRavelo&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunniorRavelo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunniorRavelo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="Streak Stats" />
 </p>
 
 ---
