@@ -1,4 +1,9 @@
-<!-- Portada -->
+<!-- Encabezado animado con Capsule Render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Bienvenido!&fontSize=40&fontAlign=50&fontAlignY=30" alt="header" />
+</p>
+
+<!-- Portada principal -->
 <p align="center">
   <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/portada.webp" alt="Cover" />
 </p>
@@ -15,11 +20,11 @@
 
 <!-- Título con animación typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=36BCF7&center=true&vCenter=true&width=380&lines=Hey!+I'm+J.+Santiago+Ravelo;Full+Stack+DevOps+Engineer;Systems+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hola!+Soy+J.+Santiago+Ravelo;Full+Stack+DevOps+Engineer;Apasionado+por+la+tecnología" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  I am a Systems Engineering student passionate about software development and IT environment administration. I love exploring new technologies, creating efficient solutions, and optimizing processes. Here you will find projects, experiments, and contributions that reflect my dedication and commitment to continuous improvement.
+  Soy estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la administración de entornos TI. Me encanta explorar nuevas tecnologías, crear soluciones eficientes y optimizar procesos. Aquí encontrarás proyectos, experimentos y contribuciones que reflejan mi dedicación y compromiso con la mejora continua.
 </p>
 
 ---
@@ -110,16 +115,50 @@
 
 ---
 
-<!-- Estadísticas -->
-<h2 align="center">Statistics</h2>
+<!-- Estadísticas GitHub -->
+<h2 align="center">GitHub Statistics</h2>
+
 <p align="center">
+  <!-- Stats principales -->
   <img src="https://github-readme-stats.vercel.app/api?username=JunniorRavelo&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
+  <!-- Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunniorRavelo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Snake de commits (recuerda configurar el workflow en tu repo) -->
+<!-- Streak Stats (racha actual) -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunniorRavelo&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- Trophies -->
+<h2 align="center">Achievements & Trophies</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JunniorRavelo&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<h2 align="center">Contribution Graph</h2>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JunniorRavelo&theme=react-dark" alt="Activity Graph" />
+  </a>
+</p>
+
+<!-- Snake de commits (requiere configurarlo en tu repo) -->
 <p align="center">
   <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/output/github-contribution-grid-snake.gif" alt="snake">
+</p>
+
+---
+
+<!-- GitHub Skyline (opcional, año 2023) -->
+<p align="center">
+  <strong>¿Curiosidad por mi código en 3D?</strong><br>
+  <a href="https://skyline.github.com/JunniorRavelo/2023">Mira mi GitHub Skyline aquí</a>
 </p>
 
 ---
@@ -128,4 +167,9 @@
 
 <p align="center">
   <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/contact.webp" alt="Contact" />
+</p>
+
+<!-- Pie de página con animación de Capsule Render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" alt="footer" />
 </p>
