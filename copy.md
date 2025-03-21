@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/portada.png" alt="Cover" />
+  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/portada.webp" alt="Cover" />
 </p>
 
 <p align="center">
@@ -145,5 +145,5 @@
 <p align="center">⭐ Full Stack DevOps Engineer | Systems Engineering Student ⭐</p>
 
 <p align="center">
-  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/contact.jpeg" alt="Contact" />
+  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/master/images/contact.webp" alt="Contact" />
 </p>
