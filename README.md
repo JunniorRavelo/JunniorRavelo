@@ -1,6 +1,6 @@
 <!-- Encabezado animado con Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Bienvenido!&fontSize=40&fontAlign=50&fontAlignY=30" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontAlignY=30" alt="header" />
 </p>
 
 <!-- Portada principal -->
@@ -138,27 +138,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JunniorRavelo&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
-</p>
-
-<!-- Activity Graph -->
-<h2 align="center">Contribution Graph</h2>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JunniorRavelo&theme=react-dark" alt="Activity Graph" />
-  </a>
-</p>
-
-<!-- Snake de commits (requiere configurarlo en tu repo) -->
-<p align="center">
-  <img src="https://github.com/JunniorRavelo/JunniorRavelo/blob/output/github-contribution-grid-snake.gif" alt="snake">
-</p>
-
----
-
-<!-- GitHub Skyline (opcional, año 2023) -->
-<p align="center">
-  <strong>¿Curiosidad por mi código en 3D?</strong><br>
-  <a href="https://skyline.github.com/JunniorRavelo/2023">Mira mi GitHub Skyline aquí</a>
 </p>
 
 ---
