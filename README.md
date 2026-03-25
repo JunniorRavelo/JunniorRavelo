@@ -31,7 +31,7 @@
 ```ts
 const santiago = {
   perfil      : "Full Stack · DevOps",
-  formación   : "Ingeniería de Sistemas (en curso)",
+  formación   : "Ingeniería de Sistemas (ultimo semestre)",
   ubicación   : "Colombia",
   intereses   : [
     "Cloud e infraestructura como código",
