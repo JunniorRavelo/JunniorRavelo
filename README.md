@@ -203,7 +203,7 @@ const santiago = {
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=620&lines=%22Primero%2C+resuelve+el+problema.%22;%22Luego%2C+escribe+el+c%C3%B3digo.%22" alt="Cita" />
 </picture>
 
-<sub>— John Johnson</sub>
+<sub>— J. Santiago Ravelo</sub>
 
 <br/><br/>
 
