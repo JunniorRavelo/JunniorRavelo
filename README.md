@@ -61,7 +61,7 @@ const santiago = {
 | [**portafolio**](https://github.com/JunniorRavelo/portafolio) <br/> <sub>Portafolio con Next.js 14, Docker y GitHub Actions.</sub> | 0 | 0 | `TypeScript` |
 | [**conversa**](https://github.com/JunniorRavelo/conversa) <br/> <sub>Datos abiertos de Colombia: salud, educación, movilidad.</sub> | 0 | 0 | `TypeScript` |
 | [**color-detector**](https://github.com/JunniorRavelo/color-detector) <br/> <sub>Detección de color en tiempo real con OpenCV y Flask.</sub> | 0 | 0 | `Python` |
-| [**text-to-speech-and-speech-to-text**](https://github.com/JunniorRavelo/text-to-speech-and-speech-to-text) <br/> <sub>UI de voz con la Web Speech API en React.</sub> | 0 | 0 | `TypeScript` |
+| [**speech-io**](https://github.com/JunniorRavelo/speech-io) <br/> <sub>UI de voz con la Web Speech API en React.</sub> | 0 | 0 | `TypeScript` |
 
 </div>
 
@@ -89,12 +89,12 @@ const santiago = {
 > **`Python` `Flask` `OpenCV`**  
 > *Cámara en vivo y detección de color: visión por computador aplicada a un caso concreto.*
 
-> **🔊 [text-to-speech-and-speech-to-text](https://github.com/JunniorRavelo/text-to-speech-and-speech-to-text)**
+> **🔊 [speech-io](https://github.com/JunniorRavelo/speech-io)**
 >
 > **`React` `Web Speech API`**  
 > *Componente de interfaz por voz: síntesis y reconocimiento en el navegador.*
 
-> **🧩 [mi-boton-pdf](https://github.com/JunniorRavelo/mi-boton-pdf)**
+> **🧩 [pdf-button](https://github.com/JunniorRavelo/pdf-button)**
 >
 > **`PHP` `WordPress`**  
 > *Plugin para generar botones PDF con enlaces configurables desde el admin de WordPress.*
