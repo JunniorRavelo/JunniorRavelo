@@ -190,12 +190,6 @@ const santiago = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JunniorRavelo/JunniorRavelo/master/images/portada.webp" alt="Portada" width="75%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/JunniorRavelo/JunniorRavelo/master/images/contact.webp" alt="Contacto" width="55%" />
-
 <br/><br/>
 
 <picture>
