@@ -2,7 +2,7 @@
 
 <img src="./Header.svg" width="100%" alt="Cabecera"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hola+%F0%9F%91%8B+Soy+J.+Santiago+Ravelo;Full+Stack+%26+DevOps;Infraestructura+que+acompa%C3%B1a+al+producto" alt="Presentación" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hola+%F0%9F%91%8B+Soy+J.+Santiago+Ravelo;Full+Stack+%26+DevOps;Codigo+que+genera+valor" alt="Presentación" />
 
 <br/>
 
