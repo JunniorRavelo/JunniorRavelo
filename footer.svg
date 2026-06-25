@@ -1,15 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="xMidYMid slice">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Pie de pagina del perfil">
   <defs>
     <linearGradient id="fbg" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1b2a"/>
-      <stop offset="100%" style="stop-color:#1b263b"/>
+      <stop offset="0%" stop-color="#0a1422"/>
+      <stop offset="100%" stop-color="#1b263b"/>
     </linearGradient>
     <linearGradient id="fline" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#764ba2"/>
-      <stop offset="100%" style="stop-color:#667eea"/>
+      <stop offset="0%" stop-color="#764ba2"/>
+      <stop offset="50%" stop-color="#8a6fd1"/>
+      <stop offset="100%" stop-color="#667eea"/>
     </linearGradient>
+    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#5b7099" stroke-width="0.6" stroke-opacity="0.14"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="120" fill="url(#fbg)"/>
-  <path d="M0 40 Q400 70 800 45 T1200 55 L1200 0 L0 0 Z" fill="#415a77" opacity="0.25"/>
-  <rect x="0" y="0" width="1200" height="3" fill="url(#fline)"/>
+
+  <rect width="1200" height="130" fill="url(#fbg)"/>
+  <rect width="1200" height="130" fill="url(#fgrid)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#fline)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M0 48 Q400 80 800 52 T1200 62 L1200 0 L0 0 Z" fill="#415a77" opacity="0.22"/>
+
+  <!-- Nodos sutiles -->
+  <g fill="#7d93c4" fill-opacity="0.5">
+    <circle cx="150" cy="92" r="2.2"/>
+    <circle cx="600" cy="100" r="2.6"/>
+    <circle cx="1050" cy="88" r="2.2"/>
+  </g>
 </svg>

@@ -2,104 +2,88 @@
 
 <img src="./Header.svg" width="100%" alt="Cabecera"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hola+%F0%9F%91%8B+Soy+J.+Santiago+Ravelo;Full+Stack+%26+DevOps;Codigo+que+genera+valor" alt="Presentación" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=30&duration=2600&pause=900&color=A9B9FF&center=true&vCenter=true&width=680&lines=Hola+%F0%9F%91%8B%2C+soy+J.+Santiago+Ravelo;Desarrollador+Full+Stack+%26+DevOps;Ingeniero+de+Sistemas+en+formaci%C3%B3n;C%C3%B3digo+que+genera+valor">
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=30&duration=2600&pause=900&color=415A77&center=true&vCenter=true&width=680&lines=Hola+%F0%9F%91%8B%2C+soy+J.+Santiago+Ravelo;Desarrollador+Full+Stack+%26+DevOps;Ingeniero+de+Sistemas+en+formaci%C3%B3n;C%C3%B3digo+que+genera+valor" alt="Presentación" />
+</picture>
 
-<br/>
-
-<p align="center">
+<p>
   <em>Software con propósito · GNU/Linux y automatización · Aprendizaje constante</em>
 </p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsravelo/)
+<a href="https://www.linkedin.com/in/jsravelo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JSantiagoRavelo@gmail.com)
+<a href="mailto:JSantiagoRavelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-[![Sitio web](https://img.shields.io/badge/Sitio-jsravelo.com-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://jsravelo.com)
+<a href="https://jsravelo.misistema.com.co/"><img src="https://img.shields.io/badge/Portafolio_Web-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
 &nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=JunniorRavelo&color=0d1b2a&style=for-the-badge&label=VISITAS+AL+PERFIL)](https://github.com/JunniorRavelo)
+<a href="https://github.com/JunniorRavelo"><img src="https://img.shields.io/github/followers/JunniorRavelo?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=1b263b&labelColor=0d1b2a" alt="Seguidores"/></a>
 &nbsp;
-![Abierto a conectar](https://img.shields.io/badge/%F0%9F%9F%A2_Abierto_a_colaborar-0d1b2a?style=for-the-badge)
+<a href="https://github.com/JunniorRavelo"><img src="https://komarev.com/ghpvc/?username=JunniorRavelo&color=667eea&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Disponible_para_proyectos-0d1b2a?style=for-the-badge" alt="Disponible"/>
 
 </div>
 
 ---
 
-## Quién soy
+## Sobre mí
+
+Ingeniero de Sistemas (último semestre) enfocado en desarrollo **Full Stack** y **DevOps**. Disfruto construir software que resuelve problemas reales: productos web con Next.js y React, integraciones con IA, automatización de procesos y APIs en Go, PHP y Python. Me muevo cómodo en **GNU/Linux**, la infraestructura como código y dejar las cosas simples, accesibles y mantenibles.
 
 ```ts
 const santiago = {
-  perfil      : "Full Stack · DevOps",
-  formación   : "Ingeniería de Sistemas (ultimo semestre)",
-  ubicación   : "Colombia",
-  intereses   : [
+  perfil       : "Full Stack · DevOps",
+  formación    : "Ingeniería de Sistemas · último semestre",
+  ubicación    : "Cúcuta, Colombia",
+  enfoque      : [
     "Cloud e infraestructura como código",
     "APIs, backends y datos",
-    "Producto web accesible y mantenible",
+    "IA aplicada a productos reales",
+    "Web accesible y mantenible",
   ],
-  construyendo: [
+  construyendo : [
     "Next.js y ecosistema React",
     "PHP / WordPress y extensiones",
     "Go y servicios REST",
-    "Visualización con datos abiertos",
+    "Python para automatización y visión",
   ],
-  buscando    : ["Colaboraciones en open source", "Proyectos con impacto real"],
+  open_to_work : true,
 };
 ```
 
 ---
 
-## Top repositorios
+## Proyectos destacados
 
-<div align="center">
+#### IA, web y producto
 
-| Repositorio | Stars | Forks | Lenguaje |
-|:------------|:---:|:---:|:---:|
-| [**JunniorRavelo**](https://github.com/JunniorRavelo/JunniorRavelo) <br/> <sub>Perfil de GitHub y portafolio con proyectos personales.</sub> | 1 | 0 | `—` |
-| [**recomienda-peli**](https://github.com/JunniorRavelo/recomienda-peli) <br/> <sub>Recomendación de películas según un test de personalidad.</sub> | 0 | 2 | `TypeScript` |
-| [**portafolio**](https://github.com/JunniorRavelo/portafolio) <br/> <sub>Portafolio con Next.js 14, Docker y GitHub Actions.</sub> | 0 | 0 | `TypeScript` |
-| [**conversa**](https://github.com/JunniorRavelo/conversa) <br/> <sub>Datos abiertos de Colombia: salud, educación, movilidad.</sub> | 0 | 0 | `TypeScript` |
-| [**color-detector**](https://github.com/JunniorRavelo/color-detector) <br/> <sub>Detección de color en tiempo real con OpenCV y Flask.</sub> | 0 | 0 | `Python` |
-| [**speech-io**](https://github.com/JunniorRavelo/speech-io) <br/> <sub>UI de voz con la Web Speech API en React.</sub> | 0 | 0 | `TypeScript` |
+| Proyecto | Descripción | Stack |
+|:---------|:------------|:------|
+| **[multiai-chatbot](https://github.com/JunniorRavelo/multiai-chatbot)** | Plugin de WordPress con widget de chat de IA compatible con **Gemini, Ollama y OpenAI**: respuestas en streaming, API REST y telemetría. | `PHP` `WordPress` `REST` `IA` |
+| **[conversa](https://github.com/JunniorRavelo/conversa)** · **[conversa-api](https://github.com/JunniorRavelo/conversa-api)** | Datos abiertos de Colombia (salud, educación, movilidad y clima) con control por voz accesible. Concurso **«Datos a la U» — MinTIC 2024**. | `Next.js` `TypeScript` `PHP` |
+| **[recomienda-peli](https://github.com/JunniorRavelo/recomienda-peli)** | Recomendador de películas a partir de un test de personalidad; foco en flujo de usuario y lógica de negocio. | `React` `TypeScript` |
+| **[speech-io](https://github.com/JunniorRavelo/speech-io)** | Interfaz de voz en React con la **Web Speech API**: voz→texto y texto→audio en español. | `React` `Web Speech API` |
 
-</div>
+#### Automatización, sistemas y visión
 
----
+| Proyecto | Descripción | Stack |
+|:---------|:------------|:------|
+| **[escpos-imagen](https://github.com/JunniorRavelo/escpos-imagen)** | Conversión PNG→BMP monocromático e impresión por USB en impresoras térmicas **ESC/POS**. | `Python` `CLI` `ESC/POS` |
+| **[scanner-simcard-barcode](https://github.com/JunniorRavelo/scanner-simcard-barcode)** | Escaneo de códigos de barras de SIM en tiempo real desde el móvil, con confirmación sonora y registro automático en CSV. | `Python` `Flask` `Socket.IO` |
+| **[color-detector](https://github.com/JunniorRavelo/color-detector)** | Detección de color en tiempo real con la webcam; versiones web y de escritorio. | `Python` `Flask` `OpenCV` |
+| **[password-analyzer](https://github.com/JunniorRavelo/password-analyzer)** | **PassGuard** — analizador de fortaleza y generador de contraseñas 100 % en el cliente; ninguna contraseña sale del navegador. | `Next.js` `TypeScript` `Seguridad` |
 
-## Portafolio
+#### APIs y backend
 
-> **🎬 [recomienda-peli](https://github.com/JunniorRavelo/recomienda-peli)**
->
-> **`TypeScript` `React`**  
-> *Test de personalidad que termina en una recomendación de película; idea clara, flujo de usuario y foco en lógica de negocio.*
+| Proyecto | Descripción | Stack |
+|:---------|:------------|:------|
+| **[login-go](https://github.com/JunniorRavelo/login-go)** | API REST con autenticación **JWT**, rutas protegidas y estructura modular. | `Go` `JWT` |
+| **[go-studentAPI](https://github.com/JunniorRavelo/go-studentAPI)** | API REST CRUD para gestión de estudiantes con control de estados y timestamps. | `Go` `REST` |
 
-> **🌐 [portafolio](https://github.com/JunniorRavelo/portafolio)**
->
-> **`Next.js 14` `Docker` `GitHub Actions`**  
-> *Sitio de presentación profesional con despliegue reproducible y buenas prácticas de CI.*
-
-> **📊 [conversa](https://github.com/JunniorRavelo/conversa) · [conversa-api](https://github.com/JunniorRavelo/conversa-api)**
->
-> **`TypeScript` `PHP`**  
-> *Exploración de datos abiertos en Colombia (salud, educación, movilidad) con capa de presentación y API.*
-
-> **🎨 [color-detector](https://github.com/JunniorRavelo/color-detector)**
->
-> **`Python` `Flask` `OpenCV`**  
-> *Cámara en vivo y detección de color: visión por computador aplicada a un caso concreto.*
-
-> **🔊 [speech-io](https://github.com/JunniorRavelo/speech-io)**
->
-> **`React` `Web Speech API`**  
-> *Componente de interfaz por voz: síntesis y reconocimiento en el navegador.*
-
-> **🧩 [pdf-button](https://github.com/JunniorRavelo/pdf-button)**
->
-> **`PHP` `WordPress`**  
-> *Plugin para generar botones PDF con enlaces configurables desde el admin de WordPress.*
-
-> 💡 *Los repositorios están abiertos a mejoras: issues y PRs son bienvenidos.*
+<sub>→ Explora los 19 repositorios en mi <a href="https://github.com/JunniorRavelo?tab=repositories">perfil de GitHub</a>. Issues y PRs son bienvenidos.</sub>
 
 ---
 
@@ -107,11 +91,16 @@ const santiago = {
 
 <div align="center">
 
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunniorRavelo&theme=github_dark) | ![Repos por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunniorRavelo&theme=github_dark) | ![Commits por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunniorRavelo&theme=github_dark) |
-|:-:|:-:|:-:|
+<a href="https://github.com/JunniorRavelo">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JunniorRavelo&show_icons=true&count_private=true&hide_border=true&title_color=8a6fd1&icon_color=667eea&text_color=c9d4e3&bg_color=0d1b2a" alt="Estadísticas de GitHub" />
+</a>
+<a href="https://github.com/JunniorRavelo">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunniorRavelo&layout=compact&langs_count=8&hide_border=true&title_color=8a6fd1&text_color=c9d4e3&bg_color=0d1b2a" alt="Lenguajes más usados" />
+</a>
 
-| ![Detalle del perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunniorRavelo&theme=github_dark) | ![Racha](https://streak-stats.demolab.com?user=JunniorRavelo&theme=github_dark&hide_border=false) |
-|:-:|:-:|
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=JunniorRavelo&hide_border=true&background=0d1b2a&stroke=1b263b&ring=8a6fd1&fire=764ba2&currStreakNum=ffffff&sideNums=c9d4e3&currStreakLabel=8a6fd1&sideLabels=c9d4e3&dates=7d8aa0&dayLabels=7d8aa0" alt="Racha de contribuciones" />
 
 </div>
 
@@ -119,82 +108,35 @@ const santiago = {
 
 ## Stack tecnológico
 
-<table>
-<tbody>
+<div align="center">
 
-<tr>
-<td align="center" colspan="2"><strong>Fuerte práctica</strong></td>
-</tr>
-<tr>
-<td>
+**Lenguajes y práctica fuerte**
 
-<img src="https://skillicons.dev/icons?i=js" width="28"/> <img src="https://img.shields.io/badge/JavaScript-242938?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://skillicons.dev/icons?i=ts" width="28"/> <img src="https://img.shields.io/badge/TypeScript-242938?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://skillicons.dev/icons?i=react" width="28"/> <img src="https://img.shields.io/badge/React-242938?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="28"/> <img src="https://img.shields.io/badge/Node.js-242938?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://skillicons.dev/icons?i=php" width="28"/> <img src="https://img.shields.io/badge/PHP-242938?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=laravel" width="28"/> <img src="https://img.shields.io/badge/Laravel-242938?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="28"/> <img src="https://img.shields.io/badge/MySQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://skillicons.dev/icons?i=linux" width="28"/> <img src="https://img.shields.io/badge/Linux-242938?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://skillicons.dev/icons?i=git" width="28"/> <img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,php,laravel,mysql,linux,git" alt="Stack principal"/>
 
-</td>
-</tr>
+**Experiencia sólida**
 
-<tr>
-<td align="center" colspan="2"><strong>Experiencia sólida</strong></td>
-</tr>
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=py,go,java,nextjs,nestjs,express,mongodb,postgres,docker,aws,wordpress" alt="Experiencia sólida"/>
 
-<img src="https://skillicons.dev/icons?i=py" width="28"/> <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://skillicons.dev/icons?i=go" width="28"/> <img src="https://img.shields.io/badge/Go-242938?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-<img src="https://skillicons.dev/icons?i=java" width="28"/> <img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=nestjs" width="28"/> <img src="https://img.shields.io/badge/NestJS-242938?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="28"/> <img src="https://img.shields.io/badge/Next.js-242938?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=express" width="28"/> <img src="https://img.shields.io/badge/Express-242938?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="28"/> <img src="https://img.shields.io/badge/MongoDB-242938?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="28"/> <img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://skillicons.dev/icons?i=docker" width="28"/> <img src="https://img.shields.io/badge/Docker-242938?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://skillicons.dev/icons?i=aws" width="28"/> <img src="https://img.shields.io/badge/AWS-242938?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-<img src="https://skillicons.dev/icons?i=wordpress" width="28"/> <img src="https://img.shields.io/badge/WordPress-242938?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+**Explorando / complemento**
 
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=spring,c,cpp,flask,bootstrap,html,css,githubactions,heroku" alt="Explorando"/>
 
-<tr>
-<td align="center" colspan="2"><strong>Explorando / complemento</strong></td>
-</tr>
-<tr>
-<td>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=spring" width="28"/> <img src="https://img.shields.io/badge/Spring_Boot-242938?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://skillicons.dev/icons?i=c" width="28"/> <img src="https://img.shields.io/badge/C-242938?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="28"/> <img src="https://img.shields.io/badge/C++-242938?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="28"/> <img src="https://img.shields.io/badge/Bootstrap-242938?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://skillicons.dev/icons?i=html" width="28"/> <img src="https://img.shields.io/badge/HTML-242938?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://skillicons.dev/icons?i=css" width="28"/> <img src="https://img.shields.io/badge/CSS-242938?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://skillicons.dev/icons?i=heroku" width="28"/> <img src="https://img.shields.io/badge/Heroku-242938?style=for-the-badge&logo=heroku&logoColor=430098"/>
+<sub>Entornos de servidor: Ubuntu · Debian · CentOS — con integración continua en GitHub Actions donde aplica.</sub>
 
-</td>
-</tr>
-
-</tbody>
-</table>
-
-<p align="center">
-  <sub>Entornos de servidor: Ubuntu, Debian, CentOS · Integración GitHub Actions donde aplica.</sub>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=63B3ED&center=true&vCenter=true&width=620&lines=%22Primero%2C+resuelve+el+problema.%22;%22Luego%2C+escribe+el+c%C3%B3digo.%22">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=620&lines=%22Primero%2C+resuelve+el+problema.%22;%22Luego%2C+escribe+el+c%C3%B3digo.%22" alt="Cita" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3600&pause=1400&color=8A6FD1&center=true&vCenter=true&width=640&lines=Software+con+prop%C3%B3sito.;Simple%2C+mantenible+y+que+genera+valor.">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3600&pause=1400&color=415A77&center=true&vCenter=true&width=640&lines=Software+con+prop%C3%B3sito.;Simple%2C+mantenible+y+que+genera+valor." alt="Lema" />
 </picture>
 
 <sub>— J. Santiago Ravelo</sub>
